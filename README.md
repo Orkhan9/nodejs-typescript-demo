@@ -1,1 +1,1 @@
-# nodejs-typescript-example
+# nodejs-typescript-demo
